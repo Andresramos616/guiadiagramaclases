@@ -7,6 +7,7 @@ public class FRACCIONES {
     int numerador;
     int denominador;
     
+    
  //METODOS 
     public static void main (String [] args){
     FRACCIONES fracc= new FRACCIONES();
